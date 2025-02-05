@@ -1,38 +1,44 @@
-# 👋 Hey, I'm **Tartendu Kumar!**  
+# 👋 Hey there, I'm **Tartendu Kumar!**  
 
-🚀 **Software Developer | Graphics Designer | AI/ML Explorer | CGI Enthusiast**  
+💻 **Code Wrangler** | 🎨 **Design Magician** | 🤖 **AI Tinkerer** | 🚀 **CGI Dreamer**  
 
-💡 **I build things that make people go "Whoa, that's cool!"**  
+Ever tried mixing **coding, design, AI, and CGI** together?  
+Yeah, I do that—**and the results are pretty awesome!** 😎🔥  
 
 ---
 
 ## 🎨 **What I Do?**  
-🔹 **Write code** that sometimes works on the first try (rarely 😆)  
-🔹 **Create designs** that make pixels jealous 🎨  
-🔹 **Play with AI & automation** to make life a little smarter 🤖  
-🔹 **Craft CGI visuals** so cool they belong in a sci-fi movie 🚀  
+🔹 **Write code** (and sometimes debug it for hours 🫠)  
+🔹 **Design stuff** that even pixels envy 🎨✨  
+🔹 **Tame AI & automation** to make life smarter 🤖  
+🔹 **Build CGI magic** that belongs in sci-fi movies 🚀🎬  
 
 ---
 
-## ⚡ **Tech Stack:**  
-🖥️ **Code & Logic:** Python | JavaScript | Wix | Cloud | AI/ML  
+## ⚡ **Tech Playground:**  
+🛠 **Coding & Logic:** Python | JavaScript | Wix | AI/ML | Cloud  
 🎨 **Design & CGI:** Blender | After Effects | Photoshop  
-🏠 **Automation & Smart Stuff:** Home Assistant | IoT  
+🏠 **Smart Tech:** Home Assistant | IoT | Automation  
 
 ---
 
-## 🔥 **What I'm Cooking Up?**  
-🔸 Bringing **CGI & AI together** for stunning ad visuals 🎬  
-🔸 Making **web solutions more futuristic & interactive** 🌐  
-🔸 Experimenting with **automation & smart systems** 🏠  
+## 🔥 **What’s Brewing?**  
+🚀 **Bringing AI & CGI together** to create mind-blowing visuals 🎬  
+🌐 **Making the web more interactive & futuristic**  
+🤖 **Experimenting with automation & smart systems**  
 
 ---
 
-## 📫 **Let's Connect & Create Something Awesome!**  
-💌 **DM Me Anywhere!**  
+## 🎉 **Fun Facts About Me:**  
+😎 My code runs perfectly… **on the second try** (okay, maybe third 🤫)  
+📌 I believe **CGI can make anything look cooler** 🎨  
+🔥 My motto: **If it’s not creative, it’s not fun!**  
+
+---
+
+## 📫 **Let's Connect & Build Something Epic!**  
 📸 [Instagram](https://www.instagram.com/tartendukumar) | 🔗 [LinkedIn](https://www.linkedin.com/in/tartendukumar)  
 
 ---
 
-🚀 *Life’s too short for boring code. Let's build something epic!* 🔥  
-
+💡 **"Life’s too short for boring code. Let's create something legendary!"** 🚀🔥  
